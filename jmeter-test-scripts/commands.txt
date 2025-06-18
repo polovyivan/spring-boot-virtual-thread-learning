@@ -1,0 +1,2 @@
+Run test from script
+jmeter -n -t trip-reserve.jmx -l platform-trip-reserve.jtl
